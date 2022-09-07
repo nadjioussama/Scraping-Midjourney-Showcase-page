@@ -1,9 +1,8 @@
-from __future__ import with_statement
-from ast import With, withitem
+from encodings import utf_8
 import json
 import requests
 
-with open('download.json') as json_file:
+with open('download.json', encoding="utf8") as json_file:
     data = json.load(json_file)
 for img in data:
     img_link = img["image_paths"][0]
