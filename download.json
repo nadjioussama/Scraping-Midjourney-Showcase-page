@@ -1,0 +1,1696 @@
+[
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 08:42:42.232397",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "portrait photo of a asia old warrior chief, tribal panther make up, blue on red, side profile, looking away, serious eyes, 50mm portrait photography, hard rim lighting photography--beta"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/ec82faf2-bd60-48b6-8e3b-b2d8ba3691b0/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "b6cebcc9-8267-4fa7-b7ca-ec571d22904e",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/b6cebcc9-8267-4fa7-b7ca-ec571d22904e/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "1005011124858662943",
+    "platform_message_id": "1011557676758609930",
+    "platform_thread_id": null,
+    "prompt": "portrait photo of a asia old warrior chief, tribal panther make up, blue on red, side profile, looking away, serious eyes, 50mm portrait photography, hard rim lighting photography--beta",
+    "ranking_score_average": 1.8369565217391304,
+    "type": "upscale",
+    "user_id": "882118830636298240",
+    "username": "MantaRay",
+    "full_command": "portrait photo  of a asia old warrior chief,  tribal panther make up, blue on red, side profile, looking away, serious eyes,  50mm portrait photography, hard rim lighting photography--beta --ar 2:3  --beta --upbeta",
+    "reference_job_id": "ec82faf2-bd60-48b6-8e3b-b2d8ba3691b0",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-09-01 08:57:14.530807",
+    "event": {
+      "height": 1792,
+      "textPrompt": [
+        "An extremely detailed, + labeled, davinci style, exquisite cartography map of heaven and the garden of eden, bliss",
+        "ultra realistic details + hyper real + unreal engine 5, photorealistic, octane render, Vray + Zbrush + DirectX + Terragen + After Effects + 8k UHD + immense detail, enchanced quality + immersive detail,extreme realistic and detailed"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/4a19149b-ab23-42e7-895e-8d980cee7e59/0_2.png"
+    },
+    "flagged": true,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "5e9c4f19-90bf-4a2c-ae74-bf9a7ffb9d81",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/5e9c4f19-90bf-4a2c-ae74-bf9a7ffb9d81/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "1013688079900479508",
+    "platform_message_id": "1014821635414577162",
+    "platform_thread_id": null,
+    "prompt": "An extremely detailed, + labeled, davinci style, exquisite cartography map of heaven and the garden of eden, bliss",
+    "ranking_score_average": 1.8240343347639485,
+    "type": "upscale",
+    "user_id": "186701715083493376",
+    "username": "Luke_Rehab",
+    "full_command": "<https://s.mj.run/q8HtwyV8l2A> An extremely detailed, + labeled, davinci style, exquisite cartography map of heaven and the garden of eden, bliss :: ultra realistic details + hyper real + unreal engine 5, photorealistic, octane render, Vray + Zbrush + DirectX + Terragen + After Effects + 8k UHD + immense detail, enchanced quality + immersive detail,extreme realistic and detailed --q 5 --ar 9:16",
+    "reference_job_id": "4a19149b-ab23-42e7-895e-8d980cee7e59",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 22:08:57.791953",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "a cute fluffy bunny grumpily working on her trip itinerary",
+        "the itinerary is written on ornate medieval paper",
+        "quill pens, scattered papers on the desk, magical atmosphere",
+        "unreal engine"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/c91ffc53-edb4-4bc2-be3d-ad1f7fd833f1/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "9c1cd3c4-876c-4498-9a10-718ac22a56fd",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/9c1cd3c4-876c-4498-9a10-718ac22a56fd/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "986328869491576873",
+    "platform_message_id": "1011759255356977172",
+    "platform_thread_id": null,
+    "prompt": "a cute fluffy bunny grumpily working on her trip itinerary",
+    "ranking_score_average": 1.823943661971831,
+    "type": "upscale",
+    "user_id": "986307851339321364",
+    "username": "pickersberry",
+    "full_command": "<https://s.mj.run/otpxSmfaVPU> a cute fluffy bunny grumpily working on her trip itinerary::2.5 the itinerary is written on ornate medieval paper::2 quill pens, scattered papers on the desk, magical atmosphere::2 unreal engine --ar 2:3 --beta --upbeta",
+    "reference_job_id": "c91ffc53-edb4-4bc2-be3d-ad1f7fd833f1",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 13:02:18.96914",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "photograph close up portrait 62-year-old tough decorated general, CLEAN SHAVEN, serious, stoic cinematic 4k epic detailed 4k epic detailed photograph shot on kodak detailed bokeh cinematic hbo dark moody"
+      ],
+      "imagePrompts": null,
+      "width": 1792,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/f3894e90-5e07-4a9b-856d-0840852e0d46/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "a3d8cb4e-0277-4aca-a01d-5b2499379400",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/a3d8cb4e-0277-4aca-a01d-5b2499379400/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "995148443137872003",
+    "platform_message_id": "1011621624132415548",
+    "platform_thread_id": null,
+    "prompt": "photograph close up portrait 62-year-old tough decorated general, CLEAN SHAVEN, serious, stoic cinematic 4k epic detailed 4k epic detailed photograph shot on kodak detailed bokeh cinematic hbo dark moody",
+    "ranking_score_average": 1.8235294117647058,
+    "type": "upscale",
+    "user_id": "588945804207849472",
+    "username": "alessandrochille",
+    "full_command": "photograph close up portrait 62-year-old tough decorated general, CLEAN SHAVEN, serious, stoic cinematic 4k epic detailed 4k epic detailed photograph shot on kodak detailed bokeh cinematic hbo dark moody --ar 17:22 --beta --upbeta",
+    "reference_job_id": "f3894e90-5e07-4a9b-856d-0840852e0d46",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-24 16:58:45.90309",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "kneeling cat knight, portrait, finely detailed armor, intricate design, silver, silk, cinematic lighting, 4k,"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/fb00a516-97dd-47e4-b67c-94c507ebf784/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "1004333899192729661",
+    "hidden": false,
+    "id": "0989203f-6d2d-41d3-b9ec-15ef05ed8e84",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/0989203f-6d2d-41d3-b9ec-15ef05ed8e84/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "characters",
+    "platform_channel_id": "1010917536042328146",
+    "platform_message_id": "1012043899444928583",
+    "platform_thread_id": null,
+    "prompt": "kneeling cat knight, portrait, finely detailed armor, intricate design, silver, silk, cinematic lighting, 4k,",
+    "ranking_score_average": 1.821515892420538,
+    "type": "upscale",
+    "user_id": "803997983347441755",
+    "username": "murchiston",
+    "full_command": "kneeling cat knight, portrait, finely detailed armor, intricate design, silver, silk, cinematic lighting, 4k, --ar 9:16  --beta --upbeta --video --upbeta",
+    "reference_job_id": "fb00a516-97dd-47e4-b67c-94c507ebf784",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-31 10:42:18.695714",
+    "event": {
+      "height": 1792,
+      "textPrompt": [
+        "ethereal Bohemian Waxwing bird, Bombycilla garrulus",
+        "intricate details, ornate, detailed illustration, octane render",
+        "Johanna Rupprecht style, William Morris style",
+        "trending on artstation"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/22a0013b-8d05-4c09-8b2b-1eb9b11b642d/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "a21d76a4-dc99-486f-9994-def7021bd6dd",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/a21d76a4-dc99-486f-9994-def7021bd6dd/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "999626469984710757",
+    "platform_message_id": "1003251803602825226",
+    "platform_thread_id": null,
+    "prompt": "ethereal Bohemian Waxwing bird, Bombycilla garrulus",
+    "ranking_score_average": 1.8078817733990147,
+    "type": "upscale",
+    "user_id": "972516333466030121",
+    "username": "agapak",
+    "full_command": "ethereal Bohemian Waxwing bird, Bombycilla garrulus :: intricate details, ornate, detailed illustration, octane render :: Johanna Rupprecht style, William Morris style :: trending on artstation --ar 9:16",
+    "reference_job_id": "22a0013b-8d05-4c09-8b2b-1eb9b11b642d",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-24 01:46:01.119527",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "airy, pin-up, sci-fi, steam punk, very deitaled, realistic, figurative painter, fineart, Oil painting on canvas, beautiful painting by Daniel F Gerhartz"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/e8a99a24-b267-4e7f-8722-f32f94407af8/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "a4f5147c-9dc6-4dd9-a5a1-3314e316aee1",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/a4f5147c-9dc6-4dd9-a5a1-3314e316aee1/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "996126045625401464",
+    "platform_message_id": "1011813848568828054",
+    "platform_thread_id": null,
+    "prompt": "airy, pin-up, sci-fi, steam punk, very deitaled, realistic, figurative painter, fineart, Oil painting on canvas, beautiful painting by Daniel F Gerhartz",
+    "ranking_score_average": 1.807799442896936,
+    "type": "upscale",
+    "user_id": "989931731563991161",
+    "username": "jacques3d",
+    "full_command": "airy, pin-up, sci-fi, steam punk, very deitaled, realistic,  figurative painter, fineart, Oil painting on canvas, beautiful painting by Daniel F Gerhartz  --ar 9:16  --beta --upbeta",
+    "reference_job_id": "e8a99a24-b267-4e7f-8722-f32f94407af8",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-26 15:12:36.428174",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "aerial view of a giant fish tank shaped like a tower in the middle of new york city, 8k octane render, photorealistic"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/9b63079e-dd11-4f9c-adbf-403ce63c90fb/0_3.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "fa55db49-7b20-4813-b6b8-185343e34e8b",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/fa55db49-7b20-4813-b6b8-185343e34e8b/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "991780400764551308",
+    "platform_message_id": "1001508025569390612",
+    "platform_thread_id": null,
+    "prompt": "aerial view of a giant fish tank shaped like a tower in the middle of new york city, 8k octane render, photorealistic",
+    "ranking_score_average": 1.8070175438596492,
+    "type": "upscale",
+    "user_id": "404209174109487104",
+    "username": "Hanu",
+    "full_command": "aerial view of a giant fish tank shaped like a tower in the middle of new york city, 8k octane render, photorealistic --ar 9:20",
+    "reference_job_id": "9b63079e-dd11-4f9c-adbf-403ce63c90fb",
+    "reference_image_num": "3"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 16:25:21.104684",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "Tiny cute and adorable piglet adventurer dressed in a warm overcoat with survival gear on a winters day, jean - baptiste monge , anthropomorphic"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/df23db32-4e84-4f67-98a3-b48c2cfa13cf/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "1011637397211062294",
+    "hidden": false,
+    "id": "9eed5068-24e5-4007-af57-1249455a8a90",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/9eed5068-24e5-4007-af57-1249455a8a90/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "anthro",
+    "platform_channel_id": "1011659069393743902",
+    "platform_message_id": "1011673489876455425",
+    "platform_thread_id": null,
+    "prompt": "Tiny cute and adorable piglet adventurer dressed in a warm overcoat with survival gear on a winters day, jean - baptiste monge , anthropomorphic",
+    "ranking_score_average": 1.8032128514056225,
+    "type": "upscale",
+    "user_id": "913515513047568404",
+    "username": "BartonDH",
+    "full_command": "Tiny cute and adorable piglet adventurer dressed in a warm overcoat with survival gear  on a winters day, jean - baptiste monge , anthropomorphic --ar 2:3  --beta --upbeta --upbeta",
+    "reference_job_id": "df23db32-4e84-4f67-98a3-b48c2cfa13cf",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-26 17:03:51.114192",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "THE CHERRY BLOSSOM TREE HOUSE",
+        "beautiful ornate treehouse in a gigantic pink cherry blossom tree",
+        "on a high blue grey and brown cliff with light snow and pink cherry blossom trees",
+        "Roger Deakins and Moebius and Alphonse Much and Guweiz",
+        "Intricate details, very realistic, cinematic lighting, volumetric lighting, photographic,",
+        "blur bokeh defocus dof"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/d797537d-5b47-4b1e-978e-14fb8b9921dd/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "d44b8967-cbae-4598-bccf-39cbeffef961",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/d44b8967-cbae-4598-bccf-39cbeffef961/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "984265609334390855",
+    "platform_message_id": "1001536028068294787",
+    "platform_thread_id": null,
+    "prompt": "THE CHERRY BLOSSOM TREE HOUSE",
+    "ranking_score_average": 1.8009708737864079,
+    "type": "upscale",
+    "user_id": "984125307114127421",
+    "username": "BrandonMc",
+    "full_command": "<https://s.mj.run/-7yd3Vu9NQU> THE CHERRY BLOSSOM TREE HOUSE :: beautiful ornate treehouse in a gigantic pink cherry blossom tree :: on a high blue grey and brown cliff with light snow and pink cherry blossom trees :: Roger Deakins and Moebius and Alphonse Much and Guweiz :: Intricate details, very realistic, cinematic lighting, volumetric lighting, photographic, --ar 9:20 --no blur bokeh defocus dof --s 4000",
+    "reference_job_id": "d797537d-5b47-4b1e-978e-14fb8b9921dd",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-21 02:56:30.749778",
+    "event": {
+      "height": 1792,
+      "textPrompt": [
+        "between two 19th-century Brooklyn brownstone buildings, a surreal small twilight creek-garden, rose-brambles, candle-birds, tiny mystery-magic, serene overcast atmosphere, midnight-blue, blue-black, royal-blue, navy-blue, cel-shading, cinematic, edge-to-edge print, rendered by Studio Ghibli, Alyssa Monks, Andreas Rocha, David Kassan, Neil Blevins, Tuomas Korpi, ArtGerm"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/3bbe4cf5-e242-4f72-a732-4ce7482bbfe2/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "dd234142-4861-4264-9914-318489e24744",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/dd234142-4861-4264-9914-318489e24744/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "986999117450444850",
+    "platform_message_id": "1010593448488878262",
+    "platform_thread_id": null,
+    "prompt": "between two 19th-century Brooklyn brownstone buildings, a surreal small twilight creek-garden, rose-brambles, candle-birds, tiny mystery-magic, serene overcast atmosphere, midnight-blue, blue-black, royal-blue, navy-blue, cel-shading, cinematic, edge-to-edge print, rendered by Studio Ghibli, Alyssa Monks, Andreas Rocha, David Kassan, Neil Blevins, Tuomas Korpi, ArtGerm",
+    "ranking_score_average": 1.8009049773755657,
+    "type": "upscale",
+    "user_id": "219587894862413824",
+    "username": "whatnostop",
+    "full_command": "<https://s.mj.run/x3N2RUaXJwM> between two 19th-century Brooklyn brownstone buildings, a surreal small twilight creek-garden, rose-brambles, candle-birds, tiny mystery-magic, serene overcast atmosphere, midnight-blue, blue-black, royal-blue, navy-blue, cel-shading, cinematic, edge-to-edge print, rendered by Studio Ghibli, Alyssa Monks, Andreas Rocha, David Kassan, Neil Blevins, Tuomas Korpi, ArtGerm —aspect 9:16 --test",
+    "reference_job_id": "3bbe4cf5-e242-4f72-a732-4ce7482bbfe2",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-06-30 09:18:46.310697",
+    "event": {
+      "height": 1792,
+      "textPrompt": [
+        "stunning city of stone inside a gray granite canyon, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing",
+        ["people"]
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/036779b7-3d10-4baf-a5ae-5f6982302c68/0_3.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "40c9ab6a-f4fc-4519-96c2-7a258cd73131",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/40c9ab6a-f4fc-4519-96c2-7a258cd73131/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "991844071637266492",
+    "platform_message_id": "991996572529348649",
+    "platform_thread_id": null,
+    "prompt": "stunning city of stone inside a gray granite canyon, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing",
+    "ranking_score_average": 1.7972972972972974,
+    "type": "upscale",
+    "user_id": "339430167854448640",
+    "username": "Owlglass",
+    "full_command": "<https://s.mj.run/qjchBkuHWWU> stunning city of stone inside a gray granite canyon, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing —ar 9:16 —no people --uplight",
+    "reference_job_id": "036779b7-3d10-4baf-a5ae-5f6982302c68",
+    "reference_image_num": "3"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 05:14:13.772233",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "Mouse adventurer dressed in a warm overcoat with survival gear on a winters day with snow, steampunk, jean - baptiste monge , anthropomorphic"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/e1a570c7-51f3-47ed-9bb9-d503100a573f/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "741a8482-dc23-48a5-ac7c-552df1c2dc75",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/741a8482-dc23-48a5-ac7c-552df1c2dc75/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "977053138651607060",
+    "platform_message_id": "1011504477926334494",
+    "platform_thread_id": null,
+    "prompt": "Mouse adventurer dressed in a warm overcoat with survival gear on a winters day with snow, steampunk, jean - baptiste monge , anthropomorphic",
+    "ranking_score_average": 1.7953890489913544,
+    "type": "upscale",
+    "user_id": "204467647742607360",
+    "username": "XX Sulla XX",
+    "full_command": "Mouse adventurer dressed in a warm overcoat with survival gear  on a winters day with snow, steampunk,  jean - baptiste monge , anthropomorphic --ar 2:3  --beta --upbeta",
+    "reference_job_id": "e1a570c7-51f3-47ed-9bb9-d503100a573f",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 20:08:08.070551",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "hyper realistic photograph, portrait of a beautiful happy southamerican woman, big silver earings, tied hair, summer",
+        "film grain, Kodak portra 800, f1.8, golden hour"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/218bf629-ad38-4819-b271-a0c0a7470f68/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "6098ce91-13e6-4aa0-977f-3131577a89f0",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/6098ce91-13e6-4aa0-977f-3131577a89f0/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "999803062233354330",
+    "platform_message_id": "1015088689233285221",
+    "platform_thread_id": null,
+    "prompt": "hyper realistic photograph, portrait of a beautiful happy southamerican woman, big silver earings, tied hair, summer",
+    "ranking_score_average": 1.794701986754967,
+    "type": "upscale",
+    "user_id": "575886766188396574",
+    "username": "circvs",
+    "full_command": "hyper realistic photograph, portrait of a beautiful happy southamerican woman, big silver earings, tied hair, summer :: film grain, Kodak portra 800, f1.8, golden hour --ar 2:3  --beta --upbeta",
+    "reference_job_id": "218bf629-ad38-4819-b271-a0c0a7470f68",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-02 12:55:45.749907",
+    "event": {
+      "height": 1792,
+      "textPrompt": [
+        "milkyway in a glass bottle, 4K, unreal engine, octane render"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/da6a45a3-3a7a-4172-bfdd-ecee23a4bbe9/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "198648363342626816",
+    "hidden": false,
+    "id": "d0f67afd-01db-4009-bc45-318c200834c3",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/d0f67afd-01db-4009-bc45-318c200834c3/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "art-room",
+    "platform_channel_id": "1003923990567460884",
+    "platform_message_id": "1004010949772066837",
+    "platform_thread_id": null,
+    "prompt": "milkyway in a glass bottle, 4K, unreal engine, octane render",
+    "ranking_score_average": 1.793991416309013,
+    "type": "upscale",
+    "user_id": "198686832949592064",
+    "username": "Deeds",
+    "full_command": "<https://s.mj.run/7t0-6y9_kVE> milkyway in a glass bottle, 4K, unreal engine, octane render --ar 9:16",
+    "reference_job_id": "da6a45a3-3a7a-4172-bfdd-ecee23a4bbe9",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-27 11:29:34.543769",
+    "event": {
+      "height": 2304,
+      "textPrompt": ["walking among the jacarandas"],
+      "imagePrompts": null,
+      "width": 896,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/b6e0d05b-8697-4fe6-b435-5179861e8534/0_3.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "662267976984297473",
+    "hidden": false,
+    "id": "fa95859f-864d-4bee-8248-b53059b78b12",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/fa95859f-864d-4bee-8248-b53059b78b12/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "general-19",
+    "platform_channel_id": "995431305066065950",
+    "platform_message_id": "1001814134503002122",
+    "platform_thread_id": null,
+    "prompt": "walking among the jacarandas",
+    "ranking_score_average": 1.782442748091603,
+    "type": "upscale",
+    "user_id": "1001478399472189440",
+    "username": "Amoroso",
+    "full_command": "<https://s.mj.run/nQvqF0TB45Q> walking among the jacarandas --stylize 20000 --ar 1:3 --quality 3",
+    "reference_job_id": "b6e0d05b-8697-4fe6-b435-5179861e8534",
+    "reference_image_num": "3"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 04:09:46.910643",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "glamour shot of queen of the damned a femme fatale, morbide, dark, very detailed, rendered in octane, wet, dense atmospheric, epic, dramatic, empty, creepy, trail cam footage, photorealistic, hyperornate details, photographed by Irakli Nadar and Reylia Slaby"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/ad880de7-5121-4e0f-9c26-5f4dbc813970/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "11976c8b-1b77-4c7d-9ba2-2b0ee1d4625a",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/11976c8b-1b77-4c7d-9ba2-2b0ee1d4625a/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "983756000416919553",
+    "platform_message_id": "1011487606204268585",
+    "platform_thread_id": null,
+    "prompt": "glamour shot of queen of the damned a femme fatale, morbide, dark, very detailed, rendered in octane, wet, dense atmospheric, epic, dramatic, empty, creepy, trail cam footage, photorealistic, hyperornate details, photographed by Irakli Nadar and Reylia Slaby",
+    "ranking_score_average": 1.7824074074074074,
+    "type": "upscale",
+    "user_id": "579727970625781770",
+    "username": "the_BERRYPICKER",
+    "full_command": "glamour shot of queen of the damned a femme fatale, morbide, dark, very detailed, rendered in octane, wet, dense atmospheric, epic, dramatic, empty, creepy, trail cam footage, photorealistic, hyperornate details, photographed by Irakli Nadar and Reylia Slaby  --ar 2:3 --beta --upbeta --upbeta",
+    "reference_job_id": "ad880de7-5121-4e0f-9c26-5f4dbc813970",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-12 14:25:23.442683",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "An imposing and highly ornamented fantasy castle, Carved from Sapphire stone, Atmosphere, Dramatic lighting, Beautiful Landscape, Epic composition, Wide angle, by Miyazaki, Nausicaa Ghibli, Breath of The Wild"
+      ],
+      "imagePrompts": null,
+      "width": 896,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/8ae250e9-b86f-40d8-b5fd-8287ff9c0bcf/0_3.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "b4084579-d79e-4533-8825-27642f069c85",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/b4084579-d79e-4533-8825-27642f069c85/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "992531807788601434",
+    "platform_message_id": "996422397144072193",
+    "platform_thread_id": null,
+    "prompt": "An imposing and highly ornamented fantasy castle, Carved from Sapphire stone, Atmosphere, Dramatic lighting, Beautiful Landscape, Epic composition, Wide angle, by Miyazaki, Nausicaa Ghibli, Breath of The Wild",
+    "ranking_score_average": 1.7808219178082192,
+    "type": "upscale",
+    "user_id": "992529452837912697",
+    "username": "Overit",
+    "full_command": "<https://s.mj.run/4Rsw4QqZS50> An imposing and highly ornamented fantasy castle, Carved from Sapphire stone, Atmosphere, Dramatic lighting, Beautiful Landscape, Epic composition, Wide angle, by Miyazaki, Nausicaa Ghibli, Breath of The Wild --aspect 9:32",
+    "reference_job_id": "8ae250e9-b86f-40d8-b5fd-8287ff9c0bcf",
+    "reference_image_num": "3"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-24 19:00:38.271634",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "Hypnos the God of Sleep",
+        "Photorealism, Bocca blur, Painted face, High detal",
+        "+ Sony Alpha α7, ISO1900"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/8f0fc565-5aac-4198-97e5-1e753fc50ffd/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "c37cf95a-fe17-4f6b-bc12-cc06e425e622",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/c37cf95a-fe17-4f6b-bc12-cc06e425e622/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "985644134306025482",
+    "platform_message_id": "1012074217291915324",
+    "platform_thread_id": null,
+    "prompt": "Hypnos the God of Sleep",
+    "ranking_score_average": 1.7781569965870307,
+    "type": "upscale",
+    "user_id": "985639659956736011",
+    "username": "MJMJ",
+    "full_command": "Hypnos the God of Sleep::2 Photorealism, Bocca blur, Painted face, High detal::1.5 + Sony Alpha α7, ISO1900::2 --aspect 9:32  --beta  --beta --upbeta",
+    "reference_job_id": "8f0fc565-5aac-4198-97e5-1e753fc50ffd",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-27 14:39:24.924787",
+    "event": {
+      "height": 2048,
+      "textPrompt": [
+        "incredibly powerful Anime Girl, created by Hideaki Anno + Katsuhiro Otomo +Rumiko Takahashi, Movie poster style, box office hit, a masterpiece of storytelling, main character center focus, monsters + mech creatures locked in combat, nuclear explosions paint sky, highly detailed 8k"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/d71eff54-8e1d-4d2e-a71c-b87b6f3e4659/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "1003840997890981908",
+    "hidden": false,
+    "id": "82e74199-e9f4-49cb-ba28-c20378a0ac2f",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/82e74199-e9f4-49cb-ba28-c20378a0ac2f/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "midjourney-chat",
+    "platform_channel_id": "1003840998348177511",
+    "platform_message_id": "1014322238989799474",
+    "platform_thread_id": null,
+    "prompt": "incredibly powerful Anime Girl, created by Hideaki Anno + Katsuhiro Otomo +Rumiko Takahashi, Movie poster style, box office hit, a masterpiece of storytelling, main character center focus, monsters + mech creatures locked in combat, nuclear explosions paint sky, highly detailed 8k",
+    "ranking_score_average": 1.7780821917808218,
+    "type": "upscale",
+    "user_id": "339197478777782274",
+    "username": "drumm",
+    "full_command": "<https://s.mj.run/0LFGnVVLtDQ> incredibly powerful Anime Girl, created by Hideaki Anno + Katsuhiro Otomo +Rumiko Takahashi, Movie poster style, box office hit, a masterpiece of storytelling, main character center focus, monsters + mech creatures locked in combat, nuclear explosions paint sky, highly detailed 8k --ar 9:18",
+    "reference_job_id": "d71eff54-8e1d-4d2e-a71c-b87b6f3e4659",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-27 09:06:52.433154",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "staring up infite climbing celestial library spiraling towards light, books, spirals, escher, dark souls, bloodborne fantastical, magical library, gradient, fantasy, trending artstation, fractals, ornate, matte painting"
+      ],
+      "imagePrompts": null,
+      "width": 896,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/39bfc5bd-a3e6-4a3d-9af5-ffdbeca18c79/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "d3068b9d-2727-4b59-a816-aa3ed4b3dc7b",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/d3068b9d-2727-4b59-a816-aa3ed4b3dc7b/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "1000720573112008724",
+    "platform_message_id": "1001778209639104634",
+    "platform_thread_id": null,
+    "prompt": "staring up infite climbing celestial library spiraling towards light, books, spirals, escher, dark souls, bloodborne fantastical, magical library, gradient, fantasy, trending artstation, fractals, ornate, matte painting",
+    "ranking_score_average": 1.7773109243697478,
+    "type": "upscale",
+    "user_id": "243094151623737364",
+    "username": "Shergot",
+    "full_command": "<https://s.mj.run/qVO32qHMJKg> staring up infite climbing celestial library spiraling towards light, books, spirals, escher, dark souls, bloodborne fantastical, magical library, gradient, fantasy, trending artstation, fractals, ornate, matte painting --ar 1:3 --q 0.5",
+    "reference_job_id": "39bfc5bd-a3e6-4a3d-9af5-ffdbeca18c79",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-06-16 06:40:52.234283",
+    "event": {
+      "height": 2048,
+      "textPrompt": "dark red paper with intricate designs,tarot card ,a mandelbulb fractal southeast asian buddha statue,full of golden layers, flowers, cloud, vines, mushrooms, swirles, curves, wave,by Hokusai and Mike Mignola, trending on artstation,elaborate dark red ink illustration",
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/ad206ec9-cc2b-44a2-b629-3cf0ed857771/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "92ec03ab-bae2-4705-bee4-54408ed9c0e2",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/92ec03ab-bae2-4705-bee4-54408ed9c0e2/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "misc-threads",
+    "platform_channel_id": "966618919039283230",
+    "platform_message_id": "986883981226172447",
+    "platform_thread_id": "983753950606020618",
+    "prompt": "dark red paper with intricate designs,tarot card ,a mandelbulb fractal southeast asian buddha statue,full of golden layers, flowers, cloud, vines, mushrooms, swirles, curves, wave,by Hokusai and Mike Mignola, trending on artstation,elaborate dark red ink illustration",
+    "ranking_score_average": 1.773462783171521,
+    "type": "upscale",
+    "user_id": "981903338079674420",
+    "username": "xiuxiu",
+    "full_command": "dark red paper with intricate designs,tarot card ,a mandelbulb fractal southeast asian buddha statue,full of golden layers, flowers, cloud, vines, mushrooms, swirles, curves, wave,by Hokusai and Mike Mignola, trending on artstation,elaborate dark red ink illustration —w 1152 —h 2432",
+    "reference_job_id": "ad206ec9-cc2b-44a2-b629-3cf0ed857771",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-06-15 22:17:02.084445",
+    "event": {
+      "height": 1536,
+      "textPrompt": "an ancient ornate intricate old tome spell book with the sigil symbol of an eye emblazoned on the cover, cinematic, realistic, intricate detail, finely detailed, small details, extra detail, photorealistic, high resolution, 3D, PBR, path tracing, volumetric lighting, octane render, arnold render, 8k",
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/c98de168-c5a3-4348-a568-35daf600808d/0_1.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "c1e05de7-a2d7-4a1a-9ea1-7bf107c71d84",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/c1e05de7-a2d7-4a1a-9ea1-7bf107c71d84/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "984814989720309820",
+    "platform_message_id": "986756622665785385",
+    "platform_thread_id": null,
+    "prompt": "an ancient ornate intricate old tome spell book with the sigil symbol of an eye emblazoned on the cover, cinematic, realistic, intricate detail, finely detailed, small details, extra detail, photorealistic, high resolution, 3D, PBR, path tracing, volumetric lighting, octane render, arnold render, 8k",
+    "ranking_score_average": 1.773134328358209,
+    "type": "upscale",
+    "user_id": "203691656627748864",
+    "username": "DavidWS",
+    "full_command": "https://s.mj.run/VO8zp5  an ancient ornate intricate old tome spell book with the sigil symbol of an eye emblazoned on the cover, cinematic, realistic, intricate detail, finely detailed, small details, extra detail, photorealistic, high resolution, 3D, PBR, path tracing, volumetric lighting, octane render, arnold render, 8k --ar 2:3",
+    "reference_job_id": "c98de168-c5a3-4348-a568-35daf600808d",
+    "reference_image_num": "1"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-05 22:48:49.288846",
+    "event": {
+      "height": 3072,
+      "textPrompt": [
+        "Evangelion unit 01 pallete , zoom shot, telephoto lens, low aperture street level, buildings collapsed",
+        "hyper-realistic, your name sky, evening, octane rendering",
+        "inspired by Katsuhiro Otomo, pixelactivist"
+      ],
+      "imagePrompts": null,
+      "width": 768,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/e646177e-abfe-4d81-b870-18d4f01a35ed/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "2fda818a-49f9-48e6-900a-752516634a4f",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/2fda818a-49f9-48e6-900a-752516634a4f/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "985072078061469726",
+    "platform_message_id": "994014228354707467",
+    "platform_thread_id": null,
+    "prompt": "Evangelion unit 01 pallete , zoom shot, telephoto lens, low aperture street level, buildings collapsed",
+    "ranking_score_average": 1.7723214285714286,
+    "type": "upscale",
+    "user_id": "180792639468208128",
+    "username": "PixelActivist",
+    "full_command": "<https://s.mj.run/PBvZy1Ydd2g> Evangelion unit 01 pallete , zoom shot, telephoto lens, low aperture street level, buildings collapsed :: hyper-realistic, your name sky, evening, octane rendering :: inspired by Katsuhiro Otomo, pixelactivist :: --hd --h 2000",
+    "reference_job_id": "e646177e-abfe-4d81-b870-18d4f01a35ed",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 22:37:46.801702",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "full body portrait of a blonde young punk rock woman, amazing body, hyper-feminine, pronounced feminine features, exposed skin, tattoos, piercing, attractive, fine athletic figure, smirking, amused, challenging, taunting, crazy, insanely detailed and intricate, atmospheric light, realistic photo, cinematic composition, trending on artstation"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/a77f986e-f5cd-4ed3-a133-18c9ba3fd594/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "05cd2f1c-4aec-49f6-a66e-b652506aafab",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/05cd2f1c-4aec-49f6-a66e-b652506aafab/0_0.png"
+    ],
+    "is_published": false,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "1005056558234861649",
+    "platform_message_id": "1014521037267935293",
+    "platform_thread_id": null,
+    "prompt": "full body portrait of a blonde young punk rock woman, amazing body, hyper-feminine, pronounced feminine features, exposed skin, tattoos, piercing, attractive, fine athletic figure, smirking, amused, challenging, taunting, crazy, insanely detailed and intricate, atmospheric light, realistic photo, cinematic composition, trending on artstation",
+    "ranking_score_average": 1.7676767676767677,
+    "type": "upscale",
+    "user_id": "799668842485645352",
+    "username": "SirVulka",
+    "full_command": "<https://s.mj.run/h4cucqfNwuI> full body portrait of a blonde young punk rock woman, amazing body, hyper-feminine, pronounced feminine features, exposed skin, tattoos, piercing, attractive, fine athletic figure, smirking, amused, challenging, taunting, crazy, insanely detailed and intricate, atmospheric light, realistic photo, cinematic composition, trending on artstation --ar 2:3 --upbeta --beta --upbeta",
+    "reference_job_id": "a77f986e-f5cd-4ed3-a133-18c9ba3fd594",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 20:17:09.261429",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "Close-up of Viking King emerging from wet black mud",
+        "Dark metal helmet with two large black horns on the sides of the helmet",
+        "dark warpaint",
+        "scruffy black beard",
+        "angry expression",
+        "scar on face",
+        "Viking Axe",
+        "cinematic lighting, volumetric rays, moody, wet, dripping mud"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/eb2e746b-1ed2-4c48-b3fa-badddd5faf84/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "662267976984297473",
+    "hidden": false,
+    "id": "e7184d4b-c50d-4ccc-8081-89fd0454e45d",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/e7184d4b-c50d-4ccc-8081-89fd0454e45d/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "characters",
+    "platform_channel_id": "952712667498422272",
+    "platform_message_id": "1011734162442567780",
+    "platform_thread_id": null,
+    "prompt": "Close-up of Viking King emerging from wet black mud",
+    "ranking_score_average": 1.7675675675675675,
+    "type": "upscale",
+    "user_id": "984125307114127421",
+    "username": "BrandonMc",
+    "full_command": "Close-up of Viking King emerging from wet black mud :: Dark metal helmet with two large black horns on the sides of the helmet :: dark warpaint :: scruffy black beard :: angry expression :: scar on face :: Viking Axe :: cinematic lighting, volumetric rays, moody, wet, dripping mud --ar 2:3 --beta --upbeta",
+    "reference_job_id": "eb2e746b-1ed2-4c48-b3fa-badddd5faf84",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-07 20:38:41.805291",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "Imposing sapphire gothic palace ascending out of the tempestuous sea, Beautiful Architecture, Dramatic lighting, Epic composition,Wide angle, Close up, Point of view, by Miyazaki, Nausicaa Ghibli, Breath of The Wild"
+      ],
+      "imagePrompts": null,
+      "width": 896,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/a4e49650-0a28-4f4a-83fd-c7db090e5678/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "e98a5768-4188-461c-9b03-622c66a38d89",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/e98a5768-4188-461c-9b03-622c66a38d89/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "992531807788601434",
+    "platform_message_id": "994706069848870932",
+    "platform_thread_id": null,
+    "prompt": "Imposing sapphire gothic palace ascending out of the tempestuous sea, Beautiful Architecture, Dramatic lighting, Epic composition,Wide angle, Close up, Point of view, by Miyazaki, Nausicaa Ghibli, Breath of The Wild",
+    "ranking_score_average": 1.7666666666666666,
+    "type": "upscale",
+    "user_id": "992529452837912697",
+    "username": "Overit",
+    "full_command": "Imposing sapphire gothic palace ascending out of the tempestuous sea, Beautiful Architecture, Dramatic lighting, Epic composition,Wide angle, Close up, Point of view, by Miyazaki, Nausicaa Ghibli, Breath of The Wild --aspect 9:32",
+    "reference_job_id": "a4e49650-0a28-4f4a-83fd-c7db090e5678",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-26 02:32:42.007614",
+    "event": {
+      "height": 2048,
+      "textPrompt": [
+        "gorgeous wolf statue with gold filigree",
+        "carved marble"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/2056d83f-679f-4db4-bbcd-cc18e8b7555b/0_1.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "c87205bc-2cbd-4d23-81a9-881d73ebb444",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/c87205bc-2cbd-4d23-81a9-881d73ebb444/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "990493884960370698",
+    "platform_message_id": "1015437026948026458",
+    "platform_thread_id": null,
+    "prompt": "gorgeous wolf statue with gold filigree",
+    "ranking_score_average": 1.760135135135135,
+    "type": "upscale",
+    "user_id": "253067345449320450",
+    "username": "Zombles",
+    "full_command": "<https://s.mj.run/1yHy7uezL8M> gorgeous wolf statue with gold filigree :: carved marble --q 2 --s 3000 --ar 1:2 --uplight",
+    "reference_job_id": "2056d83f-679f-4db4-bbcd-cc18e8b7555b",
+    "reference_image_num": "1"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-21 06:40:18.90362",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "staring up into the infinite celestial library, endless books, flying books, starry, sublime, cinematic lighting, watercolor, mc escher, dark souls, bloodborne, matte painting"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/23306631-6b76-40a3-96a0-bce23aeda187/0_3.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "31cf17d5-7c0c-4d30-8751-a28c2c98dd18",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/31cf17d5-7c0c-4d30-8751-a28c2c98dd18/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "979140402584100954",
+    "platform_message_id": "999568989351067699",
+    "platform_thread_id": null,
+    "prompt": "staring up into the infinite celestial library, endless books, flying books, starry, sublime, cinematic lighting, watercolor, mc escher, dark souls, bloodborne, matte painting",
+    "ranking_score_average": 1.758974358974359,
+    "type": "upscale",
+    "user_id": "159504948164427776",
+    "username": "trxllvkvmx",
+    "full_command": "staring up into the infinite celestial library, endless books, flying books, starry, sublime, cinematic lighting, watercolor, mc escher, dark souls, bloodborne, matte painting --ar 9:21 --test",
+    "reference_job_id": "23306631-6b76-40a3-96a0-bce23aeda187",
+    "reference_image_num": "3"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-28 03:23:01.716313",
+    "event": {
+      "height": 1792,
+      "textPrompt": [
+        "character design, void arcanist, mist, photorealistic, octane render, unreal engine, hyper detailed, volumetric lighting, hdr."
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/d133d1ef-ac65-4a82-b6dd-59f68aa02277/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "662267976984297473",
+    "hidden": false,
+    "id": "8527fb23-9f99-4bb0-84c0-71e087a97a2d",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/8527fb23-9f99-4bb0-84c0-71e087a97a2d/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "general-20",
+    "platform_channel_id": "995431274267279440",
+    "platform_message_id": "1013287915092181132",
+    "platform_thread_id": null,
+    "prompt": "character design, void arcanist, mist, photorealistic, octane render, unreal engine, hyper detailed, volumetric lighting, hdr.",
+    "ranking_score_average": 1.7586206896551724,
+    "type": "upscale",
+    "user_id": "205444210583666688",
+    "username": "krspykev",
+    "full_command": "<https://s.mj.run/78QkhxZSXx8> character design, void arcanist, mist, photorealistic, octane render, unreal engine, hyper detailed, volumetric lighting, hdr. --ar 9:16",
+    "reference_job_id": "d133d1ef-ac65-4a82-b6dd-59f68aa02277",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-01 05:24:21.701321",
+    "event": {
+      "height": 2048,
+      "textPrompt": [
+        "a photo of 8k ultra realistic archangel with 6 wings, full body, intricate purple and blue neon armor, ornate, cinematic lighting, trending on artstation, 4k, hyperrealistic, focused, high details, unreal engine 5, cinematic"
+      ],
+      "imagePrompts": null,
+      "width": 1152,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/06eb9ee9-3980-4f3c-aa0d-41db22e08b62/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "d1a6e4aa-113c-4f8f-af34-4ed03970a1ba",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/d1a6e4aa-113c-4f8f-af34-4ed03970a1ba/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "1003154198562623549",
+    "platform_message_id": "1003534151263203379",
+    "platform_thread_id": null,
+    "prompt": "a photo of 8k ultra realistic archangel with 6 wings, full body, intricate purple and blue neon armor, ornate, cinematic lighting, trending on artstation, 4k, hyperrealistic, focused, high details, unreal engine 5, cinematic",
+    "ranking_score_average": 1.7577319587628866,
+    "type": "upscale",
+    "user_id": "107012105974054912",
+    "username": "Kewk Lightworker",
+    "full_command": "a photo of 8k ultra realistic archangel with 6 wings, full body, intricate purple and blue neon armor, ornate, cinematic lighting, trending on artstation, 4k, hyperrealistic, focused, high details, unreal engine 5, cinematic --ar 9:16  --s 1250 --q 2",
+    "reference_job_id": "06eb9ee9-3980-4f3c-aa0d-41db22e08b62",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-26 18:31:37.918437",
+    "event": {
+      "height": 1280,
+      "textPrompt": [
+        "portrait of the cutest red fox ever, fluffy, photorealistic, soft lighting, unreal engine"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/bf3f8513-cf77-476a-ac67-3f30bddf9148/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "11eda75a-2697-4cba-9d76-5fad35ab69e9",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/11eda75a-2697-4cba-9d76-5fad35ab69e9/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "986328869491576873",
+    "platform_message_id": "1001557714922639442",
+    "platform_thread_id": null,
+    "prompt": "portrait of the cutest red fox ever, fluffy, photorealistic, soft lighting, unreal engine",
+    "ranking_score_average": 1.7567567567567568,
+    "type": "upscale",
+    "user_id": "986307851339321364",
+    "username": "pickersberry",
+    "full_command": "<https://s.mj.run/gLL2SMLw6UY> portrait of the cutest red fox ever, fluffy, photorealistic, soft lighting, unreal engine --ar 3:4 --uplight --stop 80",
+    "reference_job_id": "bf3f8513-cf77-476a-ac67-3f30bddf9148",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-23 08:08:48.88498",
+    "event": {
+      "height": 2432,
+      "textPrompt": [
+        "Mouse adventurer dressed in a fancy generals coat with adventuring gear , jean - baptiste monge , anthropomorphic"
+      ],
+      "imagePrompts": null,
+      "width": 1664,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/7cfee93f-6101-40a5-9e90-6447cba55dfc/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "3cf55526-931b-4814-9a33-09df4e7a3ff7",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/3cf55526-931b-4814-9a33-09df4e7a3ff7/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "977053138651607060",
+    "platform_message_id": "1011547762237644820",
+    "platform_thread_id": null,
+    "prompt": "Mouse adventurer dressed in a fancy generals coat with adventuring gear , jean - baptiste monge , anthropomorphic",
+    "ranking_score_average": 1.75625,
+    "type": "upscale",
+    "user_id": "204467647742607360",
+    "username": "XX Sulla XX",
+    "full_command": "Mouse adventurer dressed in a fancy  generals coat  with adventuring gear ,  jean - baptiste monge , anthropomorphic --ar 2:3  --beta --upbeta",
+    "reference_job_id": "7cfee93f-6101-40a5-9e90-6447cba55dfc",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-11 06:17:59.361712",
+    "event": {
+      "height": 1920,
+      "textPrompt": [
+        "full page antique lithograph of gemstones minerals, White background, art print, clean brush stroke, realistic highly detailed, 8k post-processing highly detailed, rendered by octane engine, esty,"
+      ],
+      "imagePrompts": null,
+      "width": 1152,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/0a8e7cc9-99cf-4aff-a0e2-cc73321f47dd/0_1.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "662267976984297473",
+    "hidden": false,
+    "id": "e7b4e0f2-1245-4c99-b2e2-56312968bb39",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/e7b4e0f2-1245-4c99-b2e2-56312968bb39/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "newbies-50",
+    "platform_channel_id": "990816889657778196",
+    "platform_message_id": "995937331792060507",
+    "platform_thread_id": "995931302995951696",
+    "prompt": "full page antique lithograph of gemstones minerals, White background, art print, clean brush stroke, realistic highly detailed, 8k post-processing highly detailed, rendered by octane engine, esty,",
+    "ranking_score_average": 1.7546296296296295,
+    "type": "upscale",
+    "user_id": "712546902893396048",
+    "username": "Julia-chang",
+    "full_command": "<https://s.mj.run/WaqTrtmrZOY> full page antique lithograph of gemstones minerals, White background, art print, clean brush stroke, realistic highly detailed, 8k post-processing highly detailed, rendered by octane engine, esty, --w 320 --h 512",
+    "reference_job_id": "0a8e7cc9-99cf-4aff-a0e2-cc73321f47dd",
+    "reference_image_num": "1"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-26 06:02:19.156888",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "THE SANDS OF TIME",
+        "An enormous antique hourglass",
+        "victorean"
+      ],
+      "imagePrompts": null,
+      "width": 896,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/62818852-ae5f-4ea7-b8a2-bd21acb6bcd7/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "8e9e3138-2d76-4eab-8262-2380543b12e0",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/8e9e3138-2d76-4eab-8262-2380543b12e0/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "984265609334390855",
+    "platform_message_id": "1014994494816518144",
+    "platform_thread_id": null,
+    "prompt": "THE SANDS OF TIME",
+    "ranking_score_average": 1.7544910179640718,
+    "type": "upscale",
+    "user_id": "984125307114127421",
+    "username": "BrandonMc",
+    "full_command": "THE SANDS OF TIME :: An enormous antique hourglass :: victorean --ar 5:23 --s 5000",
+    "reference_job_id": "62818852-ae5f-4ea7-b8a2-bd21acb6bcd7",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-22 09:52:10.253699",
+    "event": {
+      "height": 2048,
+      "textPrompt": [
+        "intricate colourfully painted carved wood paneling, dark souls, ivory and copper , artstation"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/cb8a13c5-dd7a-499b-bfc5-10be29b9d6bb/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "662267976984297473",
+    "hidden": false,
+    "id": "2c80a6c6-43a8-4c1f-b50b-5ebfed7dd25f",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/2c80a6c6-43a8-4c1f-b50b-5ebfed7dd25f/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "misc-threads",
+    "platform_channel_id": "966618919039283230",
+    "platform_message_id": "999980598057762856",
+    "platform_thread_id": "999233365129576459",
+    "prompt": "intricate colourfully painted carved wood paneling, dark souls, ivory and copper , artstation",
+    "ranking_score_average": 1.7531645569620253,
+    "type": "upscale",
+    "user_id": "424912627400179714",
+    "username": "GoatHanger",
+    "full_command": "<https://s.mj.run/Ex4dB8_bGNU> intricate colourfully painted carved wood paneling, dark souls, ivory and copper , artstation --h 512 --test",
+    "reference_job_id": "cb8a13c5-dd7a-499b-bfc5-10be29b9d6bb",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-14 03:44:53.082106",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "A Japanese style skyscraper apartment, Highly detailed, Epic composition, Close up, Wide angle, by Miyazaki, Nausicaa Ghibli, Breath of The Wild"
+      ],
+      "imagePrompts": null,
+      "width": 896,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/3d56e210-ad93-4579-bd53-826a3bbac065/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "3c5c7d42-a6d7-4f2b-9a90-9f64f4f96353",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/3c5c7d42-a6d7-4f2b-9a90-9f64f4f96353/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "992531807788601434",
+    "platform_message_id": "996988736359383082",
+    "platform_thread_id": null,
+    "prompt": "A Japanese style skyscraper apartment, Highly detailed, Epic composition, Close up, Wide angle, by Miyazaki, Nausicaa Ghibli, Breath of The Wild",
+    "ranking_score_average": 1.75,
+    "type": "upscale",
+    "user_id": "992529452837912697",
+    "username": "Overit",
+    "full_command": "<https://s.mj.run/o8D_qS4UuIs> A Japanese style skyscraper apartment, Highly detailed, Epic composition, Close up, Wide angle, by Miyazaki, Nausicaa Ghibli, Breath of The Wild --aspect 9:32",
+    "reference_job_id": "3d56e210-ad93-4579-bd53-826a3bbac065",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-06-29 20:40:13.743789",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "very very very tall mystical Burmese waterfall, hyperreal, hyper realistic, realistic, Burmese art, Burmese, Myanmar, yama zatdaw, Ramayana, octane render, high definition, 8k, 8k render, Burmese river, Burmese forest, Burmese waterfall, realistic lighting, volumetric lighting"
+      ],
+      "imagePrompts": null,
+      "width": 896,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/3a2a7e9a-0b73-4029-b696-e44e3b5f54a2/0_3.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "923bb57f-f123-456e-bd9b-33aac101ae04",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/923bb57f-f123-456e-bd9b-33aac101ae04/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "990879329137360926",
+    "platform_message_id": "991806111982301286",
+    "platform_thread_id": null,
+    "prompt": "very very very tall mystical Burmese waterfall, hyperreal, hyper realistic, realistic, Burmese art, Burmese, Myanmar, yama zatdaw, Ramayana, octane render, high definition, 8k, 8k render, Burmese river, Burmese forest, Burmese waterfall, realistic lighting, volumetric lighting",
+    "ranking_score_average": 1.75,
+    "type": "upscale",
+    "user_id": "324662191166849025",
+    "username": "pinkmallow",
+    "full_command": "<https://s.mj.run/gJksOh4Pr10> very very very tall mystical Burmese waterfall, hyperreal, hyper realistic, realistic, Burmese art, Burmese, Myanmar, yama zatdaw, Ramayana, octane render, high definition, 8k, 8k render, Burmese river, Burmese forest, Burmese waterfall, realistic lighting, volumetric lighting —ar 2:5",
+    "reference_job_id": "3a2a7e9a-0b73-4029-b696-e44e3b5f54a2",
+    "reference_image_num": "3"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-06-28 06:53:57.065949",
+    "event": {
+      "height": 1792,
+      "textPrompt": [
+        "massive ornately carved Shangri-la temple door at the end of stone steps, Sakura blossoms, magical atmosphere, by Renato muccillo and Andreas Rocha, trending on artstation + blur, blurry, dof, soft focus"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/bd267661-8aff-40c5-8209-fb5674e17fea/0_0.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "662267976984297473",
+    "hidden": false,
+    "id": "a5a97316-6c8c-4a73-bc60-48aba62c4d2a",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/a5a97316-6c8c-4a73-bc60-48aba62c4d2a/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "environments",
+    "platform_channel_id": "953413775149633536",
+    "platform_message_id": "991235379833360414",
+    "platform_thread_id": null,
+    "prompt": "massive ornately carved Shangri-la temple door at the end of stone steps, Sakura blossoms, magical atmosphere, by Renato muccillo and Andreas Rocha, trending on artstation + blur, blurry, dof, soft focus",
+    "ranking_score_average": 1.75,
+    "type": "upscale",
+    "user_id": "724125751854497844",
+    "username": "ministorm0204",
+    "full_command": "<https://s.mj.run/XvclZkQTyOE> massive ornately carved Shangri-la temple door at the end of stone steps, Sakura blossoms, magical atmosphere, by Renato muccillo and Andreas Rocha, trending on artstation + blur, blurry, dof, soft focus --ar 9:16",
+    "reference_job_id": "bd267661-8aff-40c5-8209-fb5674e17fea",
+    "reference_image_num": "0"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-06-24 15:39:50.498007",
+    "event": {
+      "height": 2048,
+      "textPrompt": [
+        "dark cyan paper with intricate designs,tarot card, a mandelbulb fractal, two fish, full of golden layers, flowers, cloud, vines, water, swirles, curves, wave,by Hokusai and Mike Mignola, trending on artstation,elaborate dark cyan ink illustration"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/935e3893-6616-49d1-8352-d1ea7e907c6a/0_1.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "befb2831-7e0d-4522-8d02-1c9a5e92f0b7",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/befb2831-7e0d-4522-8d02-1c9a5e92f0b7/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "newbies-21",
+    "platform_channel_id": "989268270618136586",
+    "platform_message_id": "989918228857892875",
+    "platform_thread_id": null,
+    "prompt": "dark cyan paper with intricate designs,tarot card, a mandelbulb fractal, two fish, full of golden layers, flowers, cloud, vines, water, swirles, curves, wave,by Hokusai and Mike Mignola, trending on artstation,elaborate dark cyan ink illustration",
+    "ranking_score_average": 1.75,
+    "type": "upscale",
+    "user_id": "330699219663060992",
+    "username": "pinkyoshi",
+    "full_command": "<https://s.mj.run/ucjJIlB7_Qg> dark cyan paper with intricate designs,tarot card, a mandelbulb fractal, two fish, full of golden layers, flowers, cloud, vines, water, swirles, curves, wave,by Hokusai and Mike Mignola, trending on artstation,elaborate dark cyan ink illustration —w 1152 —h 2432",
+    "reference_job_id": "935e3893-6616-49d1-8352-d1ea7e907c6a",
+    "reference_image_num": "1"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-30 10:46:52.309586",
+    "event": {
+      "height": 1536,
+      "textPrompt": [
+        "the entire universe contained inside a glass jar, super realistic, hyper detailed, dramatic lighting, 4k"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/b85ae9d5-3a69-4a92-b41f-121b4584b06c/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "854280283667038209",
+    "hidden": false,
+    "id": "00bfaee4-becc-403c-a65c-898961485fea",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/00bfaee4-becc-403c-a65c-898961485fea/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "midjourney",
+    "platform_channel_id": "1014117893060956160",
+    "platform_message_id": "1014124381548597268",
+    "platform_thread_id": null,
+    "prompt": "the entire universe contained inside a glass jar, super realistic, hyper detailed, dramatic lighting, 4k",
+    "ranking_score_average": 1.7492063492063492,
+    "type": "upscale",
+    "user_id": "218075547962572802",
+    "username": "vain",
+    "full_command": "the entire universe contained inside a glass jar, super realistic, hyper detailed, dramatic lighting, 4k --ar 6:9  --q 2",
+    "reference_job_id": "b85ae9d5-3a69-4a92-b41f-121b4584b06c",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-28 10:58:22.668255",
+    "event": {
+      "height": 1792,
+      "textPrompt": [
+        "how world looks like in 100 years, intricate, highly detailed"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/0e189e29-93fb-4c4d-90cf-03be9cea58b8/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": "662267976984297473",
+    "hidden": false,
+    "id": "a5ea3587-52e1-4e02-9d4d-47acdbed8864",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/a5ea3587-52e1-4e02-9d4d-47acdbed8864/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "general-17",
+    "platform_channel_id": "995431544019755070",
+    "platform_message_id": "1013402508334465115",
+    "platform_thread_id": null,
+    "prompt": "how world looks like in 100 years, intricate, highly detailed",
+    "ranking_score_average": 1.7490774907749078,
+    "type": "upscale",
+    "user_id": "498576850054807563",
+    "username": "GaBri44",
+    "full_command": "how world looks like in 100 years, intricate, highly detailed --ar 9:16 --chaos 25  --s 5000 --q 2",
+    "reference_job_id": "0e189e29-93fb-4c4d-90cf-03be9cea58b8",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-08-03 11:19:48.680338",
+    "event": {
+      "height": 1536,
+      "textPrompt": [
+        "The Midjourney Multiverse highly detailed carving on \"southern ice\" porcelain, partially glazed, woodfired, art gallery"
+      ],
+      "imagePrompts": null,
+      "width": 1024,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/40785a4c-4de3-4043-93bf-49415365f248/0_2.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "b635d360-e9a5-47ab-8752-10dbdfa0fd08",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/b635d360-e9a5-47ab-8752-10dbdfa0fd08/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "1003329191309213706",
+    "platform_message_id": "1014394609658494977",
+    "platform_thread_id": null,
+    "prompt": "\"The Midjourney Multiverse\" highly detailed carving on \"southern ice\" porcelain, partially glazed, woodfired, art gallery",
+    "ranking_score_average": 1.7486338797814207,
+    "type": "upscale",
+    "user_id": "100953918753751040",
+    "username": "DesolateMirror",
+    "full_command": "\"The Midjourney Multiverse\" highly detailed carving on \"southern ice\" porcelain, partially glazed, woodfired, art gallery --ar 5:7 --q 2",
+    "reference_job_id": "40785a4c-4de3-4043-93bf-49415365f248",
+    "reference_image_num": "2"
+  },
+  {
+    "current_status": "completed",
+    "enqueue_time": "2022-07-18 18:11:21.627851",
+    "event": {
+      "height": 2304,
+      "textPrompt": [
+        "An enormous labyrinth, Beautiful architecture, Statues, Highly detailed carvings, Atmosphere, Dramatic lighting, Epic composition, Close up, Low angle, Wide angle, by Miyazaki, Nausicaa Ghibli, Breath of The Wild"
+      ],
+      "imagePrompts": null,
+      "width": 896,
+      "batchSize": 1,
+      "seedImageURL": "https://storage.googleapis.com/dream-machines-output/d26e2d53-af0f-4104-a04a-a2e20a637b63/0_3.png"
+    },
+    "flagged": false,
+    "grid_id": null,
+    "grid_num": null,
+    "guild_id": null,
+    "hidden": false,
+    "id": "569e39a6-13ea-4be0-ad06-9bbc90ffe96b",
+    "image_paths": [
+      "https://storage.googleapis.com/dream-machines-output/569e39a6-13ea-4be0-ad06-9bbc90ffe96b/0_0.png"
+    ],
+    "is_published": true,
+    "mod_hidden": false,
+    "platform": "discord",
+    "platform_channel": "DM",
+    "platform_channel_id": "992531807788601434",
+    "platform_message_id": "998657016253906974",
+    "platform_thread_id": null,
+    "prompt": "An enormous labyrinth, Beautiful architecture, Statues, Highly detailed carvings, Atmosphere, Dramatic lighting, Epic composition, Close up, Low angle, Wide angle, by Miyazaki, Nausicaa Ghibli, Breath of The Wild",
+    "ranking_score_average": 1.7481751824817517,
+    "type": "upscale",
+    "user_id": "992529452837912697",
+    "username": "Overit",
+    "full_command": "<https://s.mj.run/KMiBxI3KMGA> An enormous labyrinth, Beautiful architecture, Statues, Highly detailed carvings, Atmosphere, Dramatic lighting, Epic composition, Close up, Low angle, Wide angle, by Miyazaki, Nausicaa Ghibli, Breath of The Wild --aspect 9:32",
+    "reference_job_id": "d26e2d53-af0f-4104-a04a-a2e20a637b63",
+    "reference_image_num": "3"
+  }
+]
