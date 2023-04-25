@@ -11,7 +11,7 @@ imgLinks = []
 searchUrl = "https://midjourney.com/showcase/top/"
 
 # Add your webdriver path here
-webdriver_service = service.Service(r"Path\to\chrome or opera Driver.exe...")
+webdriver_service = service.Service(r"Path\to\chrome or opera webDriver.exe...")
 webdriver_service.start()
 
 options = webdriver.ChromeOptions()
