@@ -32,7 +32,12 @@ links = driver.find_elements(By.CSS_SELECTOR, "link.hidden")
 
 # The images shown arent full quality, this part gets the links for the original format files
 for elem in links:
-    link = elem.get_attribute('href').replace("grid_0_32_N.webp", "0_0.png")
+    link = elem.get_attribute('href')
+    link = link.replace("0_0_32_N.webp", "0_0.png")
+    link = link.replace("0_1_32_N.webp", "0_0.png")
+    link = link.replace("0_2_32_N.webp", "0_0.png")
+    link = link.replace("0_3_32_N.webp", "0_0.png")
+    link = link.replace("grid_0_32_N.webp", "0_0.png")
     imgLinks.append(link)
 
 driver.quit()
